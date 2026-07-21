@@ -1,0 +1,14 @@
+# Obsidian-Arbeitsdateien: lokal, gehören niemandem sonst
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+
+# Claude-Sitzungsdaten
+.claude/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
