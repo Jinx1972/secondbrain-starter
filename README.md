@@ -1,5 +1,7 @@
 # Second Brain Starter
 
+> **Archiviert am 2026-07-30.** Der Ministry-Standard für ein persönliches Second Brain ist inzwischen der Claude-Code-Weg nach dem LLM-Wiki-Muster von Andrej Karpathy. Dabei baut Claude die Struktur selbst, ein Starter-Vault ist nicht mehr nötig. Dieses Repo bleibt als Vorlage für alle, die lieber mit der Obsidian-Oberfläche arbeiten.
+
 Ein leeres Obsidian-Vault mit Ordnerstruktur und Regeln, damit Claude darin arbeiten kann. Gedacht für die Ministry Group, aber nichts daran ist firmenspezifisch.
 
 Der Aufbau folgt der PARA-Logik (Projects, Areas, Resources, Archive), erweitert um einen Kontext-Ordner und ein tägliches Logbuch.
